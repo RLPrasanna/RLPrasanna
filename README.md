@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at CDK Global as Senior Member Technical
+- 🔭 I’m currently working at ZS Associates as Senior Software Engineer
 - 🌱 I’m currently learning MERN MEAN
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 GOALS: Contribute more to open source Projects
